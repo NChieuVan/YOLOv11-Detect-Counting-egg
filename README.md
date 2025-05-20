@@ -6,10 +6,14 @@ Project này sử dụng thư viện [ultralytics](https://github.com/ultralytic
 Kết quả sẽ được ghi lại thành video mới với các đối tượng được đếm và hiển thị vùng đếm.
 
 ## Kết quả demo
-https://github.com/user-attachments/assets/83f9d69a-9155-444a-beb0-9f3572b2a8ab
+![demo](https://github.com/user-attachments/assets/5f1ce539-4e6e-4472-b465-c6a0236024d0)
 
 ## Trainning model yolo
 - Dataset : https://www.kaggle.com/datasets/nguynchiuvn/detect-egg
+- ![result-train](https://github.com/user-attachments/assets/81c62043-c492-4ca8-95d9-4c4ca947e143)
+- ![results](https://github.com/user-attachments/assets/9fa0b37a-050b-4269-9c37-90db2acbc219)
+- ![confusion_matrix](https://github.com/user-attachments/assets/ddb3ac85-e093-49c4-8585-47ec8331188b)
+
 ## Yêu cầu
 - Python 3.7 trở lên
 - OpenCV (`cv2`)
